@@ -3,3 +3,4 @@ import os
 
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
+VIDEO_HELP = "/video <link>"
